@@ -1,4 +1,4 @@
-# OPENPNM - Pore Network Modeling Studies
+# DigitalBuildingMaterials
 
 A collection of Jupyter notebooks for pore network modeling simulations using OpenPNM framework.
 
